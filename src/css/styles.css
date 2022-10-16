@@ -12,9 +12,9 @@ body {
   line-height: 1.5;
 
   background-image: linear-gradient(to left,
-    #eea2a2 10%,
+    /* #eea2a2 10%,
     #bbc1bf 19%,
-    #57c6e1 42%,
+    #57c6e1 42%, */
     #b49fda 79%,
     #7ac5d8 98%);
 }
